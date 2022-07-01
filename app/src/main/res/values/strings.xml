@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMVVMTodo</string>
+    <string name="add_task">ADD TASK</string>
+</resources>

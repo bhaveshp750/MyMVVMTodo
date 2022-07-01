@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.249" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/drawable/ic_add.xml" value="0.249" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/drawable/ic_check_mark.xml" value="0.249" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/drawable/ic_priority.xml" value="0.249" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/drawable/ic_sort.xml" value="0.249" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/layout/fragment_add_edit_task.xml" value="0.27291666666666664" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/layout/fragment_tasks.xml" value="0.271875" />
+        <entry key="..\:/LearningProjects/MyMVVMTodo/app/src/main/res/layout/item_task.xml" value="0.271875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
