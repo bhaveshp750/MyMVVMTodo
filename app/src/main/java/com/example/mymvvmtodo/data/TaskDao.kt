@@ -1,7 +1,7 @@
 package com.example.mymvvmtodo.data
 
 import androidx.room.*
-import com.example.mymvvmtodo.ui.tasks.SortOrder
+import com.example.mymvvmtodo.data.PreferencesManager
 import kotlinx.coroutines.flow.Flow
 
 @Dao
