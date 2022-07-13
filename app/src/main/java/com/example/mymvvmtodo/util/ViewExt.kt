@@ -2,6 +2,7 @@ package com.example.mymvvmtodo.util
 
 import androidx.appcompat.widget.SearchView
 
+/*
 inline fun SearchView.onQueryTextChanged(crossinline listener: (String) -> Unit) {
 
     this.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
@@ -15,4 +16,4 @@ inline fun SearchView.onQueryTextChanged(crossinline listener: (String) -> Unit)
         }
     })
 
-}
+}*/
